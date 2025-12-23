@@ -11,8 +11,10 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+orig_cyrillic/
 downloads/
 eggs/
+trocr-small-cyrillic/
 .eggs/
 lib/
 lib64/
